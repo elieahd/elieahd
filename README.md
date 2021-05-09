@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### :briefcase: &nbsp; Projects I am working on
+#### :briefcase: &nbsp; App ideas I am working on
 - [Feedics](/feedics/README.md) - *tool that centralize customer reviews and turn them into meaningful insights*
  
 #### :page_facing_up: &nbsp; Some articles I wrote
