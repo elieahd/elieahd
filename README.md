@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### :briefcase: &nbsp; App ideas I am working on
-- [Feedics](/feedics/README.md) - *tool that centralize customer reviews and turn them into meaningful insights*
+- [Feedics](/feedics/README.md) - *tool that centralize customer reviews from different platforms (Google, Zomato, Facebook, Expedia, Booking, ...) and turn them into meaningful insights*
  
 #### :page_facing_up: &nbsp; Some articles I wrote
 - [Chaos Engineering in a Spring Boot Microservice](https://medium.com/@eliedhr/chaos-engineering-in-a-spring-boot-microservice-8a17ad536ecf)
