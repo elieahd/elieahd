@@ -8,5 +8,6 @@
 
 #### :file_folder: &nbsp; Some interesting github repositories I worked on
 - [Design patterns in Java](https://github.com/elieahd/design-patterns)
+- [Liquibase in Spring boot](https://github.com/elieahd/spring-boot-liquibase)
 - [Dijkstra Algorithm - Python Hadoop Streaming and Pyspark](https://github.com/bilal-elchami/dijkstra-hadoop-spark) - *academic project at Dauphine University*
 - [UTA method](https://github.com/elieahd/decision-uta-method) - *research during an internship at LAMSADE*
