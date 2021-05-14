@@ -4,7 +4,8 @@
 - [Feedics](/feedics/README.md) - *tool that centralize customer reviews from different platforms (Google, Zomato, Facebook, Expedia, Booking, ...) and turn them into meaningful insights*
  
 #### :page_facing_up: &nbsp; Some articles I wrote
-- [Chaos Engineering in a Spring Boot Microservice](https://medium.com/@eliedhr/chaos-engineering-in-a-spring-boot-microservice-8a17ad536ecf)
+- [Evolving your database in a Spring Boot Microservice with Liquibase](https://medium.com/@eliedhr/chaos-engineering-in-a-spring-boot-microservice-8a17ad536ecf) - *published on [Medium](https://medium.com) 16 May 2021*
+- [Chaos Engineering in a Spring Boot Microservice](https://medium.com/@eliedhr/chaos-engineering-in-a-spring-boot-microservice-8a17ad536ecf) - *published on [Medium](https://medium.com) 01 Jan 2020*
 
 #### :file_folder: &nbsp; Some interesting github repositories I worked on
 - [Design patterns in Java](https://github.com/elieahd/design-patterns) - *quick guide on design patterns with examples in java*
