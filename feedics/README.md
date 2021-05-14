@@ -7,6 +7,11 @@ You can request a demo, by going [here](https://www.feedics.com/)
 
 ## Technical architecture
 <p align="center">
+  <img src="feedics_architecture.png">
+</p>
+
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/feedics/docs/main/diagrams/architecture/image.png?token=ADGDLNIF7ODZJF4NNEP7NQ3ATY7TK">
 </p>
 
