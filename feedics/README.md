@@ -5,6 +5,14 @@ Feedics is a tool that centralize customer reviews from different platforms (Goo
 
 You can request a demo, by going [here](https://www.feedics.com/)
 
+Check [Youtube video](https://www.youtube.com/watch?v=9kuanmTQvKU) to learn more 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=9kuanmTQvKU">
+    <img src="https://img.youtube.com/vi/9kuanmTQvKU/0.jpg">
+  </a>
+</p>
+
+
 ## Technical architecture
 <p align="center">
   <img src="feedics_architecture.png">
