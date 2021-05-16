@@ -4,7 +4,7 @@
 - [Feedics](/feedics/README.md) - *tool that centralize customer reviews from different platforms (Google, Zomato, Facebook, Expedia, Booking, ...) and turn them into meaningful insights*
  
 #### :page_facing_up: &nbsp; Some articles I wrote
-- [Evolving your database in a Spring Boot Microservice with Liquibase](https://medium.com/@eliedhr/evolving-your-database-in-a-spring-boot-application-with-liquibase-709aad8336c8) - *published on Medium 16 May 2021*
+- [Evolving your database in a Spring Boot Microservice with Liquibase](https://eliedhr.medium.com/evolving-your-database-in-a-spring-boot-application-with-liquibase-709aad8336c8) - *published on Medium 16 May 2021*
 - [Chaos Engineering in a Spring Boot Microservice](https://medium.com/@eliedhr/chaos-engineering-in-a-spring-boot-microservice-8a17ad536ecf) - *published on Medium 01 Jan 2020*
 
 #### :file_folder: &nbsp; Some interesting github repositories I worked on
