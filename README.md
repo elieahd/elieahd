@@ -3,7 +3,7 @@
 #### :briefcase: &nbsp; App ideas I am working on
 | App | Description |
 |-----|-------------|
-| [Feedics](/feedics/README.md) | Tool that centralize customer reviews from different platforms (Google, Zomato, Facebook, Expedia, Booking, ...) and turn them into meaningful insights. <br/> Check [here](/feedics/README.md) for more functional and technical details. | 
+| <img alt="Feedics" src="/feedics/feedics.svg" width="100" /> | Tool that centralize customer reviews from different platforms (Google, Zomato, Facebook, Expedia, Booking, ...) and turn them into meaningful insights. <br/> Check [here](/feedics/README.md) for more functional and technical details. | 
 
 #### :page_facing_up: &nbsp; Some articles I wrote
 | Article | Platform | Date |
