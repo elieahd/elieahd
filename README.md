@@ -2,17 +2,17 @@
 
 I'm Elie, fullstack developer, currently living in Paris, France.
 
-#### :briefcase: &nbsp; App ideas I am working on
+🔭 I’m currently working as a tech lead @ SG Corporate & Investment Banking
+
+#### :briefcase: &nbsp; App ideas I've worked on
 | App | Description |
 |-----|-------------|
 | <img alt="Feedics" src="/feedics/feedics.svg" width="100" /> | Tool that centralize customer reviews from different platforms (Google, Zomato, Facebook, Expedia, Booking, ...) and turn them into meaningful insights. <br/> Check [here](/feedics/README.md) for more functional and technical details. | 
 
 #### :page_facing_up: &nbsp; Some articles I wrote
-| Article | Platform | Published |
-|---------|----------|-----------|
-| [Why you need a Shared Library if you use Jenkins ?](https://eliedhr.medium.com/why-you-need-a-shared-library-if-you-use-jenkins-fee652869eca) | ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white) | 26 Aug 2022 |
-| [Evolving your database in a Spring Boot Application with Liquibase](https://eliedhr.medium.com/evolving-your-database-in-a-spring-boot-application-with-liquibase-709aad8336c8) | ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white) | 16 May 2021 |
-| [Chaos Engineering in a Spring Boot Microservice](https://eliedhr.medium.com/chaos-engineering-in-a-spring-boot-microservice-8a17ad536ecf) | ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white) | 01 Jan 2020 |
+- ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white) [Why you need a Shared Library if you use Jenkins ?](https://eliedhr.medium.com/why-you-need-a-shared-library-if-you-use-jenkins-fee652869eca) *published on August 26, 2022*
+- ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white) [Evolving your database in a Spring Boot Application with Liquibase](https://eliedhr.medium.com/evolving-your-database-in-a-spring-boot-application-with-liquibase-709aad8336c8) *published on May 16, 2021*
+- ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white) [Chaos Engineering in a Spring Boot Microservice](https://eliedhr.medium.com/chaos-engineering-in-a-spring-boot-microservice-8a17ad536ecf) *published on January 1, 2020*
 
 #### :computer: &nbsp; Things I code with
 | Stack | Tools |
