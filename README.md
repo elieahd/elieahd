@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Elie, Fullstack developer currently living in Paris, France.
+I'm Elie, fullstack developer, currently living in Paris, France.
 
 #### :briefcase: &nbsp; App ideas I am working on
 | App | Description |
