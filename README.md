@@ -27,11 +27,3 @@
 | Azure | Deploying an application (Java/SpringBoot, Angular, React) on AKS |
 | ETL Pipeline | Building a light ETL pipeline in Java for Data integration (Extracting data (Azure Datalake, DB, files, ...) transforming them (mapping, filter, ...) and publishing them into a destination (Azure Datalake, DB, file, ...) |
 | Jenkins Shared Library | Building a library that holds Jenkins pipeline utilities (deploying maven artifact into a remote repository, building and pushing docker image, checking code quality, generating a file from tempalte with variables, ...) |
-
-#### :file_folder: &nbsp; Some interesting github repositories I worked on
-| Github repository | Description |
-|-------------------|-------------|
-| [![Design patterns in Java](https://img.shields.io/badge/Design%20Patterns%20in%20java-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/elieahd/design-patterns) | Quick guide on design patterns with examples in java | 
-| [![Liquibase in a Spring Boot Microservice](https://img.shields.io/badge/Liquibase%20In%20A%20Spring%20Boot%20Microservice-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/elieahd/spring-boot-liquibase) | Demo on how to use liquibase in a spring boot microservice to evolve your database | 
-| [![Dijkstra Algorithm - Python Hadoop Streaming and Pyspark](https://img.shields.io/badge/Dijkstra%20Algorithm%20Python%20Hadoop%20Streaming%20And%20Pyspark-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/bilal-elchami/dijkstra-hadoop-spark) | Academic project at Paris-Dauphine University (PSL) | 
-| [![UTA method](https://img.shields.io/badge/UTA%20Method-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/elieahd/decision-uta-method)  | Research during an internship at LAMSADE | 
