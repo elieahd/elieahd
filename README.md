@@ -26,6 +26,6 @@ I'm Elie, Fullstack developer currently living in Paris, France.
 #### :school_satchel: &nbsp; What I am currently learning/working on ? 
 | New | Description |
 |-------------------|-------------|
-| **Azure** | Deploying an application (Java/SpringBoot, Angular, React) on AKS |
+| **Azure** | Deploying an application (Java/SpringBoot, Angular, React) on Azure Kubernetes Service (AKS) |
 | **ETL Pipeline** | Building an open source light ETL pipeline library in Java for Data integration : extracting data (Azure Datalake, DB, CSV file, Excel file, and many more), transforming them (mapping, filter, grouping, ...) and then finally publishing them into a destination (Azure Datalake, DB, file, ...) |
 | **Jenkins Shared Library** | Building a library that holds Jenkins pipeline utilities (deploying maven artifact into a remote repository, building and pushing docker image, checking code quality, generating a file from tempalte with variables, ...) |
