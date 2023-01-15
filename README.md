@@ -6,8 +6,8 @@
 | <img alt="Feedics" src="/feedics/feedics.svg" width="100" /> | Tool that centralize customer reviews from different platforms (Google, Zomato, Facebook, Expedia, Booking, ...) and turn them into meaningful insights. <br/> Check [here](/feedics/README.md) for more functional and technical details. | 
 
 #### :page_facing_up: &nbsp; Some articles I wrote
-| Article | Platform | Date |
-|---------|----------|------|
+| Article | Platform | Published |
+|---------|----------|-----------|
 | [Why you need a Shared Library if you use Jenkins ?](https://eliedhr.medium.com/why-you-need-a-shared-library-if-you-use-jenkins-fee652869eca) | ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white) | 26 Aug 2022 |
 | [Evolving your database in a Spring Boot Application with Liquibase](https://eliedhr.medium.com/evolving-your-database-in-a-spring-boot-application-with-liquibase-709aad8336c8) | ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white) | 16 May 2021 |
 | [Chaos Engineering in a Spring Boot Microservice](https://eliedhr.medium.com/chaos-engineering-in-a-spring-boot-microservice-8a17ad536ecf) | ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white) | 01 Jan 2020 |
@@ -21,10 +21,17 @@
 | IDEs | <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" /> <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white" /> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
 | Agile | <img alt="Jira" src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=Jira&logoColor=white" /> <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white" /> |
 
+#### :school_satchel: &nbsp; What I am currently learning/working on ? 
+| New | Description |
+|-------------------|-------------|
+| Azure | Deploying an application (Java/SpringBoot, Angular, React) on AKS |
+| ETL Pipeline | Building a light ETL pipeline in Java for Data integration (Extracting data (Azure Datalake, DB, files, ...) transforming them (mapping, filter, ...) and publishing them into a destination (Azure Datalake, DB, file, ...) |
+| Jenkins Shared Library | Building a library that holds Jenkins pipeline utilities (deploying maven artifact into a remote repository, building and pushing docker image, checking code quality, generating a file from tempalte with variables, ...) |
+
 #### :file_folder: &nbsp; Some interesting github repositories I worked on
 | Github repository | Description |
 |-------------------|-------------|
 | [![Design patterns in Java](https://img.shields.io/badge/Design%20Patterns%20in%20java-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/elieahd/design-patterns) | Quick guide on design patterns with examples in java | 
 | [![Liquibase in a Spring Boot Microservice](https://img.shields.io/badge/Liquibase%20In%20A%20Spring%20Boot%20Microservice-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/elieahd/spring-boot-liquibase) | Demo on how to use liquibase in a spring boot microservice to evolve your database | 
-| [![Dijkstra Algorithm - Python Hadoop Streaming and Pyspark](https://img.shields.io/badge/Dijkstra%20Algorithm%20Python%20Hadoop%20Streaming%20And%20Pyspark-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/bilal-elchami/dijkstra-hadoop-spark) | Academic project at Dauphine University | 
-| [![UTA method](https://img.shields.io/badge/UTA%20Method-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/elieahd/decision-uta-method)  | Research during an internship at LAMSADE| 
+| [![Dijkstra Algorithm - Python Hadoop Streaming and Pyspark](https://img.shields.io/badge/Dijkstra%20Algorithm%20Python%20Hadoop%20Streaming%20And%20Pyspark-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/bilal-elchami/dijkstra-hadoop-spark) | Academic project at Paris-Dauphine University (PSL) | 
+| [![UTA method](https://img.shields.io/badge/UTA%20Method-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/elieahd/decision-uta-method)  | Research during an internship at LAMSADE | 
