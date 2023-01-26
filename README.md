@@ -5,7 +5,7 @@ I'm Elie, fullstack developer, currently living in Paris, France.
 I’m currently working as a tech lead @ SG Corporate & Investment Banking
 
 #### 📫 &nbsp; Reach me on
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/DaherElie) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elie-abi-hanna-daher)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elie-abi-hanna-daher)
 
 #### :briefcase: &nbsp; App ideas I've worked on
 | App | Description |
