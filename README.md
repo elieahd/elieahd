@@ -29,5 +29,5 @@ I’m currently working as a tech lead @ SG Corporate & Investment Banking
 #### :school_satchel: &nbsp; What I am currently learning/working on ? 
 | New | Description |
 |-------------------|-------------|
-| **Azure** | Deploying an application (Java/SpringBoot, Angular, React) on EKS |
+| **AWS** | Deploying an application (Java/SpringBoot, Angular, React) on EKS |
 | **Jenkins Shared Library** | Building a library that holds Jenkins pipeline utilities (deploying maven artifact into a remote repository, building and pushing docker image, checking code quality, generating a file from tempalte with variables, ...) |
