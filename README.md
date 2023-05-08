@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Elie, fullstack developer.
+I'm Elie, a fullstack developer.
 
 I’m currently working as a tech lead @ SG Corporate & Investment Banking
 
