@@ -2,7 +2,7 @@
 
 I'm Elie, a fullstack developer.
 
-I’m currently working as a tech lead @ SG Corporate & Investment Banking
+I’m currently working as a tech lead @ Société Générale
 
 #### 📫 &nbsp; Reach me on
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elie-abi-hanna-daher)
