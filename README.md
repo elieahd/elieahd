@@ -13,7 +13,7 @@ I’m currently working as a tech lead @ Société Générale
 | <img alt="Feedics" src="/feedics/feedics.svg" width="100" /> | App that centralize customer reviews from different platforms (Google, Zomato, Facebook, Expedia, Booking, ...) and turn them into meaningful insights. <br/> Check [here](/feedics/README.md) for more functional and technical details. | 
 
 #### 💻 Github Actions I've worked on
-- [`elieahd/templater@v1`](https://github.com/elieahd/templater) : a github action that generate file dynamically by easily substituting {{variables}} from a template with actual values
+- [`elieahd/templater@v1`](https://github.com/marketplace/actions/file-templater) : a github action that generate file dynamically by easily substituting {{variables}} from a template with actual values
 
 #### :page_facing_up: &nbsp; Some articles I wrote
 - ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white) [Why you need a Shared Library if you use Jenkins ?](https://eliedhr.medium.com/why-you-need-a-shared-library-if-you-use-jenkins-fee652869eca) *published on August 26, 2022*
