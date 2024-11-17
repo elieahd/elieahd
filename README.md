@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Elie, a fullstack developer. Currently working as a tech lead @ Société Générale
+I'm Elie, a fullstack developer.
+
+Currently working as a tech lead @ Société Générale.
+
+I also teach a web programming course @ Paris-Dauphine University for a master’s program (MIAGE).
 
 #### 📫 &nbsp; Reach me on
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/elie-abi-hanna-daher)
