@@ -14,7 +14,7 @@ I also teach a web programming course @ Paris-Dauphine University for a master�
 |-----|-------------|
 | <img alt="Feedics" src="/feedics/feedics.svg" width="100" /> | App that centralize customer reviews from different platforms (Google, Zomato, Facebook, Expedia, Booking, ...) and turn them into meaningful insights. <br/> Check [here](/feedics/README.md) for more functional and technical details. | 
 
-#### 💻 Github Actions I've worked on
+#### 💻 Stuff I've worked on
 - [`elieahd/templater@v1`](https://github.com/marketplace/actions/file-templater) : a github action that generate file dynamically by easily substituting `{{variables}}` from a template with actual values
 
 #### :page_facing_up: &nbsp; Some articles I wrote
