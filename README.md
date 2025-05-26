@@ -16,6 +16,7 @@ I also teach a web programming course @ Paris-Dauphine University for a masterâ€
 
 #### ðŸ’» Stuff I've worked on
 - [`elieahd/templater@v1`](https://github.com/marketplace/actions/file-templater) : a github action that generate file dynamically by easily substituting `{{variables}}` from a template with actual values
+- [randomizer](https://github.com/elieahd/randomizer) : a java library that randomize data for various types. Ideal for testing and creating dummy data
 
 #### :page_facing_up: &nbsp; Some articles I wrote
 - ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=flat-square&logo=Medium&logoColor=white) [Why you need a Shared Library if you use Jenkins ?](https://eliedhr.medium.com/why-you-need-a-shared-library-if-you-use-jenkins-fee652869eca) *published on August 26, 2022*
